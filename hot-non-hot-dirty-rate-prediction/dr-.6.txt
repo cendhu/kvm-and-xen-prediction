@@ -1,0 +1,14 @@
+file-server/10m beta 0.00258777 snh 2842.48 sh 677.017 S 2836.88
+file-server/20m beta 0.00243266 snh 5504.97 sh 648.217 S 5493.15
+kernel/1 beta 0.035336 snh 2326.5 sh 8506.7 S 2544.88
+kernel/2 beta 0.0497276 snh 6558.73 sh 11770.9 S 6817.92
+mediawiki-ws-db/20C/ws beta 0.50451 snh 8657.67 sh 112940 S 61269.3
+mediawiki-ws-db/20C/db beta 0.00680993 snh 1705.92 sh 1595.98 S 1705.17
+mediawiki-ws-db/10C/ws beta 0.28484 snh 967 sh 75793 S 22280.5
+mediawiki-ws-db/10C/db beta 0.00616298 snh 1582.82 sh 1480.8 S 1582.19
+rubis-ws-db/300C/ws beta 0.148055 snh 6212.92 sh 33859.8 S 10306.2
+rubis-ws-db/300C/db beta 0.0685306 snh 3621.93 sh 16418 S 4498.86
+rubis-ws-db/100C/ws beta 0.0685911 snh 1367.18 sh 17262.7 S 2457.48
+rubis-ws-db/100C/db beta 0.0360207 snh 3977 sh 8803.13 S 4150.84
+rubis-ws-db/50C/ws beta 0.0410449 snh 393.767 sh 10638.3 S 814.252
+rubis-ws-db/50C/db beta 0.0321126 snh 5763.48 sh 7399.6 S 5816.02

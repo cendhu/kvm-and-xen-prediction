@@ -1,0 +1,14 @@
+file-10m        beta 0.00263317     snh 3048.2 sh 740.8 S 3042.12
+file-20m        beta 0.00250076     snh 5955.9 sh 717.5 S 5942.8
+kernel-1        beta 0.040905       snh 1150.5 sh 10858.7 S 1547.61
+kernel-2        beta 0.0703087      snh 1806.6 sh 19178.7 S 3028.01
+mwiki-ws-20     beta 0.529131       snh 4371.7 sh 126346 S 68912.2
+mwiki-db-20     beta 0.00831946     snh 1605 sh 2063.8 S 1608.82
+mwiki-ws-10     beta 0.28506        snh 307.6 sh 82248.7 S 23665.7
+mwiki-db-10     beta 0.00789195     snh 1435.2 sh 2005.7 S 1439.7
+rubis-ws-300    beta 0.160461       snh 4488.7 sh 39114.3 S 10044.8
+rubis-db-300    beta 0.073377       snh 3581.8 sh 18862.8 S 4703.07
+rubis-ws-100    beta 0.0705395      snh 1080.2 sh 19181.4 S 2357.05
+rubis-db-100    beta 0.042441       snh 3883.1 sh 10809.8 S 4177.08
+rubis-ws-50     beta 0.0412795      snh 311.2 sh 11527.1 S 774.187
+rubis-db-50     beta 0.0451612      snh 4261.5 sh 10854.4 S 4559.24

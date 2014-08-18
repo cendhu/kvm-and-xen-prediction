@@ -1,0 +1,21 @@
+rubis-ws-100 6743
+rubis-db-100 4102
+rubis-ws-300 20018
+rubis-db-300 6803
+mwiki-ws-10  35723
+mwiki-db-10  945
+mwiki-ws-20  73876
+mwiki-db-20  1051
+file         2844
+kernel       11073
+
+
+
+
+
+
+
+
+
+
+

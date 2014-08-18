@@ -1,0 +1,1 @@
+awk '$1 ~ /parsec-vips/ && $3 ~ /102/ {print $0}' $1

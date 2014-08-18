@@ -1,0 +1,10 @@
+./predict-sample-dirty-rate.sh /root/cloning/with-skip/mediawiki-db/mediawiki-db-20C/ 3350
+./predict-sample-dirty-rate.sh /root/cloning/with-skip/mediawiki-db/mediawiki-db-10C/ 3134
+./predict-sample-dirty-rate.sh /root/cloning/with-skip/mediawiki-ws/mediawiki-ws-20C/ 119251
+./predict-sample-dirty-rate.sh /root/cloning/with-skip/mediawiki-ws/mediawiki-ws-10C/ 75098
+./predict-sample-dirty-rate.sh /root/cloning/with-skip/rubis-ws/rubis-ws-100C/ 18436
+./predict-sample-dirty-rate.sh /root/cloning/with-skip/rubis-ws/rubis-ws-300C/ 39648
+./predict-sample-dirty-rate.sh /root/cloning/with-skip/rubis-db/rubis-db-100C-650MC/ 13374
+./predict-sample-dirty-rate.sh /root/cloning/with-skip/rubis-db/rubis-db-300C-650MC/ 20474
+./predict-sample-dirty-rate.sh /root/cloning/with-skip/kernel/ 19010
+./predict-sample-dirty-rate.sh /root/cloning/with-skip/file/ 6073

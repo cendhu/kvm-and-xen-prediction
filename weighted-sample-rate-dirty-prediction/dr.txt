@@ -1,0 +1,14 @@
+file-10m        3388
+file-20m        6348
+kernel-1        12451
+kernel-2        18889
+mwiki-ws-20     117859
+mwiki-db-20     3337
+mwiki-ws-10     74674
+mwiki-db-10     2999
+rubis-ws-300    40786
+rubis-db-300    20598
+rubis-ws-100    18609
+rubis-db-100    13071
+rubis-ws-50    10601
+rubis-db-50    13043
